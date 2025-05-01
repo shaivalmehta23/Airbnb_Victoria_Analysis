@@ -34,4 +34,4 @@ The dataset I have used is an external dataset. The data was collected by inside
 - Which factors are related to listings that are most successful?
 
 # Presentation
-[Airbnb Victoria Presentation](https://public.tableau.com/app/profile/shaival.mehta3434/viz/TableauPresentation_17454694657220/AirbnbVictoriaPresentation>)
+[Airbnb Victoria Presentation](https://public.tableau.com/app/profile/shaival.mehta3434/viz/TableauPresentation_17454694657220/AirbnbVictoriaPresentation)
